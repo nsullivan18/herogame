@@ -1,2 +1,2 @@
-# newproject1
-a new project
+# herogame
+hero game
